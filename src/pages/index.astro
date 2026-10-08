@@ -1,0 +1,20 @@
+---
+import Directory from '../components/Directory';
+import '../styles/global.css';
+---
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content="A curated developer resource directory. Explore community, Git, editors, JavaScript, regex, design, CSS, and HTML resources." />
+    <meta name="theme-color" content="#101315" />
+    <title>Dev Atlas — Your developer toolkit</title>
+    <link
+      rel="icon"
+      type="image/svg+xml"
+      href={`${import.meta.env.BASE_URL}favicon.svg`}
+    />
+  </head>
+  <body><a class="skip-link" href="#main">Skip to content</a><Directory client:load /></body>
+</html>

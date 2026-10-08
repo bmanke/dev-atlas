@@ -1,0 +1,322 @@
+[
+  {
+    "id": 1,
+    "category": "Community",
+    "title": "DEV Community",
+    "description": "Articles, discussions, and learning journals from developers.",
+    "url": "https://dev.to/",
+    "tag": "community"
+  },
+  {
+    "id": 2,
+    "category": "Community",
+    "title": "freeCodeCamp",
+    "description": "Learn together through tutorials, projects, and community discussions.",
+    "url": "https://www.freecodecamp.org/",
+    "tag": "learning"
+  },
+  {
+    "id": 3,
+    "category": "Community",
+    "title": "Stack Overflow",
+    "description": "Search programming questions and practical answers.",
+    "url": "https://stackoverflow.com/",
+    "tag": "questions"
+  },
+  {
+    "id": 4,
+    "category": "Community",
+    "title": "CodeNewbie",
+    "description": "A welcoming community for people learning to code.",
+    "url": "https://www.codenewbie.org/",
+    "tag": "beginner"
+  },
+  {
+    "id": 5,
+    "category": "Git",
+    "title": "Git Documentation",
+    "description": "Reference documentation for Git commands and workflows.",
+    "url": "https://git-scm.com/doc",
+    "tag": "docs"
+  },
+  {
+    "id": 6,
+    "category": "Git",
+    "title": "Learn Git Branching",
+    "description": "Practise branching and merging through interactive exercises.",
+    "url": "https://learngitbranching.js.org/",
+    "tag": "interactive"
+  },
+  {
+    "id": 7,
+    "category": "Git",
+    "title": "GitHub Skills",
+    "description": "Hands-on courses for GitHub workflows.",
+    "url": "https://skills.github.com/",
+    "tag": "learning"
+  },
+  {
+    "id": 8,
+    "category": "Git",
+    "title": "Oh Shit, Git!?!",
+    "description": "Practical recovery recipes for common Git mistakes.",
+    "url": "https://ohshitgit.com/",
+    "tag": "reference"
+  },
+  {
+    "id": 9,
+    "category": "VS Code Extensions",
+    "title": "ESLint",
+    "description": "Bring JavaScript linting feedback into your editor.",
+    "url": "https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint",
+    "tag": "extension"
+  },
+  {
+    "id": 10,
+    "category": "VS Code Extensions",
+    "title": "Prettier",
+    "description": "Format source files directly in VS Code.",
+    "url": "https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode",
+    "tag": "extension"
+  },
+  {
+    "id": 11,
+    "category": "VS Code Extensions",
+    "title": "GitLens",
+    "description": "Explore Git history and authorship in your editor.",
+    "url": "https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens",
+    "tag": "extension"
+  },
+  {
+    "id": 12,
+    "category": "VS Code Extensions",
+    "title": "Astro",
+    "description": "Language support for Astro components.",
+    "url": "https://marketplace.visualstudio.com/items?itemName=astro-build.astro-vscode",
+    "tag": "extension"
+  },
+  {
+    "id": 13,
+    "category": "JavaScript",
+    "title": "MDN JavaScript",
+    "description": "Language guides and API reference documentation.",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript",
+    "tag": "docs"
+  },
+  {
+    "id": 14,
+    "category": "JavaScript",
+    "title": "The Modern JavaScript Tutorial",
+    "description": "Structured lessons from fundamentals to advanced topics.",
+    "url": "https://javascript.info/",
+    "tag": "learning"
+  },
+  {
+    "id": 15,
+    "category": "JavaScript",
+    "title": "Exploring JavaScript",
+    "description": "Books and explanations for deeper language understanding.",
+    "url": "https://exploringjs.com/",
+    "tag": "books"
+  },
+  {
+    "id": 16,
+    "category": "JavaScript",
+    "title": "JavaScript30",
+    "description": "Build small projects with vanilla JavaScript.",
+    "url": "https://javascript30.com/",
+    "tag": "practice"
+  },
+  {
+    "id": 17,
+    "category": "Validators & Checkers",
+    "title": "W3C Markup Validator",
+    "description": "Check the markup validity of HTML documents.",
+    "url": "https://validator.w3.org/",
+    "tag": "validator"
+  },
+  {
+    "id": 18,
+    "category": "Validators & Checkers",
+    "title": "W3C CSS Validator",
+    "description": "Check CSS stylesheets for errors.",
+    "url": "https://jigsaw.w3.org/css-validator/",
+    "tag": "validator"
+  },
+  {
+    "id": 19,
+    "category": "Validators & Checkers",
+    "title": "PageSpeed Insights",
+    "description": "Inspect page performance and related audit results.",
+    "url": "https://pagespeed.web.dev/",
+    "tag": "performance"
+  },
+  {
+    "id": 20,
+    "category": "Validators & Checkers",
+    "title": "WAVE",
+    "description": "Inspect web pages for accessibility issues.",
+    "url": "https://wave.webaim.org/",
+    "tag": "accessibility"
+  },
+  {
+    "id": 21,
+    "category": "Regex",
+    "title": "regex101",
+    "description": "Test patterns and inspect explanations and matches.",
+    "url": "https://regex101.com/",
+    "tag": "interactive"
+  },
+  {
+    "id": 22,
+    "category": "Regex",
+    "title": "RegExr",
+    "description": "Explore regular expressions with live matching.",
+    "url": "https://regexr.com/",
+    "tag": "interactive"
+  },
+  {
+    "id": 23,
+    "category": "Regex",
+    "title": "RegexOne",
+    "description": "Learn regular expressions through exercises.",
+    "url": "https://regexone.com/",
+    "tag": "learning"
+  },
+  {
+    "id": 24,
+    "category": "Regex",
+    "title": "MDN Regular Expressions",
+    "description": "Reference for JavaScript regular expression syntax.",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_expressions",
+    "tag": "docs"
+  },
+  {
+    "id": 25,
+    "category": "JetBrains Plugins",
+    "title": "JetBrains Marketplace",
+    "description": "Find plugins for your JetBrains IDE.",
+    "url": "https://plugins.jetbrains.com/",
+    "tag": "marketplace"
+  },
+  {
+    "id": 26,
+    "category": "JetBrains Plugins",
+    "title": "IdeaVim",
+    "description": "Vim-style editing for JetBrains IDEs.",
+    "url": "https://plugins.jetbrains.com/plugin/164-ideavim",
+    "tag": "plugin"
+  },
+  {
+    "id": 27,
+    "category": "JetBrains Plugins",
+    "title": "Rainbow Brackets",
+    "description": "Colour bracket pairs to help navigate nested code.",
+    "url": "https://plugins.jetbrains.com/plugin/10080-rainbow-brackets",
+    "tag": "plugin"
+  },
+  {
+    "id": 28,
+    "category": "JetBrains Plugins",
+    "title": "Key Promoter X",
+    "description": "Discover keyboard shortcuts while using your IDE.",
+    "url": "https://plugins.jetbrains.com/plugin/9792-key-promoter-x",
+    "tag": "plugin"
+  },
+  {
+    "id": 29,
+    "category": "UI / UX",
+    "title": "Nielsen Norman Group",
+    "description": "Research and articles about usability and user experience.",
+    "url": "https://www.nngroup.com/articles/",
+    "tag": "research"
+  },
+  {
+    "id": 30,
+    "category": "UI / UX",
+    "title": "Figma Community",
+    "description": "Explore design files, templates, and community resources.",
+    "url": "https://www.figma.com/community",
+    "tag": "design"
+  },
+  {
+    "id": 31,
+    "category": "UI / UX",
+    "title": "Laws of UX",
+    "description": "Explore principles that inform interface design.",
+    "url": "https://lawsofux.com/",
+    "tag": "reference"
+  },
+  {
+    "id": 32,
+    "category": "UI / UX",
+    "title": "WebAIM Contrast Checker",
+    "description": "Check foreground and background colour contrast.",
+    "url": "https://webaim.org/resources/contrastchecker/",
+    "tag": "accessibility"
+  },
+  {
+    "id": 33,
+    "category": "CSS",
+    "title": "MDN CSS",
+    "description": "CSS properties, layout guides, and examples.",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/CSS",
+    "tag": "docs"
+  },
+  {
+    "id": 34,
+    "category": "CSS",
+    "title": "CSS-Tricks",
+    "description": "Articles and guides about styling and front-end development.",
+    "url": "https://css-tricks.com/",
+    "tag": "articles"
+  },
+  {
+    "id": 35,
+    "category": "CSS",
+    "title": "Flexbox Froggy",
+    "description": "Practise flexbox through a browser game.",
+    "url": "https://flexboxfroggy.com/",
+    "tag": "interactive"
+  },
+  {
+    "id": 36,
+    "category": "CSS",
+    "title": "Grid Garden",
+    "description": "Learn CSS Grid by tending a virtual garden.",
+    "url": "https://cssgridgarden.com/",
+    "tag": "interactive"
+  },
+  {
+    "id": 37,
+    "category": "HTML",
+    "title": "MDN HTML",
+    "description": "HTML element reference and foundational guides.",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/HTML",
+    "tag": "docs"
+  },
+  {
+    "id": 38,
+    "category": "HTML",
+    "title": "web.dev Learn HTML",
+    "description": "A structured course covering HTML fundamentals.",
+    "url": "https://web.dev/learn/html",
+    "tag": "learning"
+  },
+  {
+    "id": 39,
+    "category": "HTML",
+    "title": "HTML Living Standard",
+    "description": "The HTML specification maintained by WHATWG.",
+    "url": "https://html.spec.whatwg.org/",
+    "tag": "specification"
+  },
+  {
+    "id": 40,
+    "category": "HTML",
+    "title": "HTML Reference",
+    "description": "Browse HTML elements with visual examples.",
+    "url": "https://htmlreference.io/",
+    "tag": "reference"
+  }
+]

@@ -1,0 +1,506 @@
+[
+  {
+    "id": 1,
+    "category": "Community",
+    "title": "Scrimba — Learn JavaScript",
+    "description": "Scrimba — Learn JavaScript — selected for your Community resource collection.",
+    "url": "https://scrimba.com/learn-javascript-c0v",
+    "tag": "resource"
+  },
+  {
+    "id": 2,
+    "category": "Community",
+    "title": "SDEV Resources",
+    "description": "SDEV Resources — selected for your Community resource collection.",
+    "url": "https://bmanke.github.io/SDEV-Resources/",
+    "tag": "resource"
+  },
+  {
+    "id": 3,
+    "category": "Git",
+    "title": "Oh My Git!",
+    "description": "Oh My Git! — selected for your Git resource collection.",
+    "url": "https://ohmygit.org/",
+    "tag": "resource"
+  },
+  {
+    "id": 4,
+    "category": "Git",
+    "title": "So You Think You Know Git — FOSDEM 2024",
+    "description": "So You Think You Know Git — FOSDEM 2024 — selected for your Git resource collection.",
+    "url": "https://www.youtube.com/watch?v=aolI_Rz0ZqY",
+    "tag": "video"
+  },
+  {
+    "id": 5,
+    "category": "Git",
+    "title": "So You Think You Know Git Part 2 — DevWorld 2024",
+    "description": "So You Think You Know Git Part 2 — DevWorld 2024 — selected for your Git resource collection.",
+    "url": "https://www.youtube.com/watch?v=Md44rcw13k4",
+    "tag": "video"
+  },
+  {
+    "id": 6,
+    "category": "Git",
+    "title": "Git Internals — CS50 Tech Talk",
+    "description": "Git Internals — CS50 Tech Talk — selected for your Git resource collection.",
+    "url": "https://www.youtube.com/watch?v=lG90LZotrpo",
+    "tag": "video"
+  },
+  {
+    "id": 7,
+    "category": "Git",
+    "title": "Git & GitHub Tutorial — JavaScript Mastery",
+    "description": "Git & GitHub Tutorial — JavaScript Mastery — selected for your Git resource collection.",
+    "url": "https://www.youtube.com/watch?v=S7XpTAnSDL4",
+    "tag": "video"
+  },
+  {
+    "id": 8,
+    "category": "VS Code Extensions",
+    "title": "Live Server",
+    "description": "Live Server — selected for your VS Code Extensions resource collection.",
+    "url": "https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer",
+    "tag": "extension"
+  },
+  {
+    "id": 9,
+    "category": "VS Code Extensions",
+    "title": "Open in Browser",
+    "description": "Open in Browser — selected for your VS Code Extensions resource collection.",
+    "url": "https://marketplace.visualstudio.com/items?itemName=techer.open-in-browser",
+    "tag": "extension"
+  },
+  {
+    "id": 10,
+    "category": "VS Code Extensions",
+    "title": "Markdown Preview Enhanced",
+    "description": "Markdown Preview Enhanced — selected for your VS Code Extensions resource collection.",
+    "url": "https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced",
+    "tag": "extension"
+  },
+  {
+    "id": 11,
+    "category": "VS Code Extensions",
+    "title": "VS Code Extensions for React Developers",
+    "description": "VS Code Extensions for React Developers — selected for your VS Code Extensions resource collection.",
+    "url": "https://dev.to/devland/vs-code-extensions-you-should-use-as-a-react-developer-2f6i",
+    "tag": "resource"
+  },
+  {
+    "id": 12,
+    "category": "JavaScript",
+    "title": "W3Schools JavaScript Reference",
+    "description": "W3Schools JavaScript Reference — selected for your JavaScript resource collection.",
+    "url": "https://www.w3schools.com/jsref/default.asp",
+    "tag": "resource"
+  },
+  {
+    "id": 13,
+    "category": "JavaScript",
+    "title": "MDN — Learn JavaScript",
+    "description": "MDN — Learn JavaScript — selected for your JavaScript resource collection.",
+    "url": "https://developer.mozilla.org/en-US/docs/Learn/JavaScript",
+    "tag": "resource"
+  },
+  {
+    "id": 14,
+    "category": "JavaScript",
+    "title": "Eloquent JavaScript",
+    "description": "Eloquent JavaScript — selected for your JavaScript resource collection.",
+    "url": "https://eloquentjavascript.net/",
+    "tag": "resource"
+  },
+  {
+    "id": 15,
+    "category": "JavaScript",
+    "title": "The Modern JavaScript Tutorial",
+    "description": "The Modern JavaScript Tutorial — selected for your JavaScript resource collection.",
+    "url": "https://javascript.info/",
+    "tag": "resource"
+  },
+  {
+    "id": 16,
+    "category": "JavaScript",
+    "title": "W3Schools JavaScript Tutorial",
+    "description": "W3Schools JavaScript Tutorial — selected for your JavaScript resource collection.",
+    "url": "https://www.w3schools.com/js/default.asp",
+    "tag": "resource"
+  },
+  {
+    "id": 17,
+    "category": "JavaScript",
+    "title": "freeCodeCamp — JavaScript Algorithms and Data Structures",
+    "description": "freeCodeCamp — JavaScript Algorithms and Data Structures — selected for your JavaScript resource collection.",
+    "url": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/",
+    "tag": "resource"
+  },
+  {
+    "id": 18,
+    "category": "JavaScript",
+    "title": "Edabit JavaScript Tutorial",
+    "description": "Edabit JavaScript Tutorial — selected for your JavaScript resource collection.",
+    "url": "https://edabit.com/tutorial/javascript",
+    "tag": "resource"
+  },
+  {
+    "id": 19,
+    "category": "JavaScript",
+    "title": "Codewars JavaScript Kata",
+    "description": "Codewars JavaScript Kata — selected for your JavaScript resource collection.",
+    "url": "https://www.codewars.com/kata/search/javascript",
+    "tag": "resource"
+  },
+  {
+    "id": 20,
+    "category": "JavaScript",
+    "title": "LeetCode — 30 Days of JavaScript",
+    "description": "LeetCode — 30 Days of JavaScript — selected for your JavaScript resource collection.",
+    "url": "https://leetcode.com/studyplan/30-days-of-javascript/",
+    "tag": "resource"
+  },
+  {
+    "id": 21,
+    "category": "JavaScript",
+    "title": "Exercism JavaScript Track",
+    "description": "Exercism JavaScript Track — selected for your JavaScript resource collection.",
+    "url": "https://exercism.org/tracks/javascript",
+    "tag": "resource"
+  },
+  {
+    "id": 22,
+    "category": "JavaScript",
+    "title": "Frontend Mentor Challenges",
+    "description": "Frontend Mentor Challenges — selected for your JavaScript resource collection.",
+    "url": "https://www.frontendmentor.io/challenges",
+    "tag": "resource"
+  },
+  {
+    "id": 23,
+    "category": "JavaScript",
+    "title": "Smashing Magazine — JavaScript",
+    "description": "Smashing Magazine — JavaScript — selected for your JavaScript resource collection.",
+    "url": "https://www.smashingmagazine.com/category/javascript/",
+    "tag": "resource"
+  },
+  {
+    "id": 24,
+    "category": "JavaScript",
+    "title": "JavaScript Roadmap",
+    "description": "JavaScript Roadmap — selected for your JavaScript resource collection.",
+    "url": "https://roadmap.sh/javascript",
+    "tag": "resource"
+  },
+  {
+    "id": 25,
+    "category": "JavaScript",
+    "title": "web.dev — Learn JavaScript",
+    "description": "web.dev — Learn JavaScript — selected for your JavaScript resource collection.",
+    "url": "https://web.dev/learn/javascript",
+    "tag": "resource"
+  },
+  {
+    "id": 26,
+    "category": "JavaScript",
+    "title": "JavaScript30",
+    "description": "JavaScript30 — selected for your JavaScript resource collection.",
+    "url": "https://javascript30.com/",
+    "tag": "resource"
+  },
+  {
+    "id": 27,
+    "category": "JavaScript",
+    "title": "MDN — Core Scripting",
+    "description": "MDN — Core Scripting — selected for your JavaScript resource collection.",
+    "url": "https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting",
+    "tag": "resource"
+  },
+  {
+    "id": 28,
+    "category": "JavaScript",
+    "title": "JSbooks",
+    "description": "JSbooks — selected for your JavaScript resource collection.",
+    "url": "https://jsbooks.revolunet.com/",
+    "tag": "resource"
+  },
+  {
+    "id": 29,
+    "category": "JavaScript",
+    "title": "React Developer Tools — Chrome",
+    "description": "React Developer Tools — Chrome — selected for your JavaScript resource collection.",
+    "url": "https://chromewebstore.google.com/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en&pli=1",
+    "tag": "resource"
+  },
+  {
+    "id": 30,
+    "category": "Validators & Checkers",
+    "title": "W3C Markup Validator",
+    "description": "W3C Markup Validator — selected for your Validators & Checkers resource collection.",
+    "url": "https://validator.w3.org/",
+    "tag": "validator"
+  },
+  {
+    "id": 31,
+    "category": "Validators & Checkers",
+    "title": "W3C CSS Validator",
+    "description": "W3C CSS Validator — selected for your Validators & Checkers resource collection.",
+    "url": "https://jigsaw.w3.org/css-validator/",
+    "tag": "validator"
+  },
+  {
+    "id": 32,
+    "category": "Validators & Checkers",
+    "title": "JSONLint",
+    "description": "JSONLint — selected for your Validators & Checkers resource collection.",
+    "url": "https://jsonlint.com/",
+    "tag": "validator"
+  },
+  {
+    "id": 33,
+    "category": "Validators & Checkers",
+    "title": "AccessibilityChecker.org",
+    "description": "AccessibilityChecker.org — selected for your Validators & Checkers resource collection.",
+    "url": "https://www.accessibilitychecker.org/",
+    "tag": "validator"
+  },
+  {
+    "id": 34,
+    "category": "Validators & Checkers",
+    "title": "WebAIM Contrast Checker",
+    "description": "WebAIM Contrast Checker — selected for your Validators & Checkers resource collection.",
+    "url": "https://webaim.org/resources/contrastchecker/",
+    "tag": "validator"
+  },
+  {
+    "id": 35,
+    "category": "Regex",
+    "title": "RexEgg Regex Cheat Sheet",
+    "description": "RexEgg Regex Cheat Sheet — selected for your Regex resource collection.",
+    "url": "https://www.rexegg.com/regex-quickstart.php",
+    "tag": "resource"
+  },
+  {
+    "id": 36,
+    "category": "Regex",
+    "title": "regex101",
+    "description": "regex101 — selected for your Regex resource collection.",
+    "url": "https://regex101.com/",
+    "tag": "resource"
+  },
+  {
+    "id": 37,
+    "category": "Regex",
+    "title": "Regex Crossword",
+    "description": "Regex Crossword — selected for your Regex resource collection.",
+    "url": "https://regexcrossword.com/",
+    "tag": "resource"
+  },
+  {
+    "id": 38,
+    "category": "JetBrains Plugins",
+    "title": "WireMock",
+    "description": "WireMock — selected for your JetBrains Plugins resource collection.",
+    "url": "https://plugins.jetbrains.com/plugin/23695-wiremock",
+    "tag": "plugin"
+  },
+  {
+    "id": 39,
+    "category": "UI / UX",
+    "title": "Google Material Symbols & Icons",
+    "description": "Google Material Symbols & Icons — selected for your UI / UX resource collection.",
+    "url": "https://fonts.google.com/icons",
+    "tag": "resource"
+  },
+  {
+    "id": 40,
+    "category": "UI / UX",
+    "title": "Iconify Icon Sets",
+    "description": "Iconify Icon Sets — selected for your UI / UX resource collection.",
+    "url": "https://icon-sets.iconify.design/",
+    "tag": "resource"
+  },
+  {
+    "id": 41,
+    "category": "UI / UX",
+    "title": "SVG Repo",
+    "description": "SVG Repo — selected for your UI / UX resource collection.",
+    "url": "https://www.svgrepo.com/",
+    "tag": "resource"
+  },
+  {
+    "id": 42,
+    "category": "UI / UX",
+    "title": "Uiverse",
+    "description": "Uiverse — selected for your UI / UX resource collection.",
+    "url": "https://uiverse.io/",
+    "tag": "resource"
+  },
+  {
+    "id": 43,
+    "category": "UI / UX",
+    "title": "Aceternity UI",
+    "description": "Aceternity UI — selected for your UI / UX resource collection.",
+    "url": "https://ui.aceternity.com/",
+    "tag": "resource"
+  },
+  {
+    "id": 44,
+    "category": "UI / UX",
+    "title": "Lorem Picsum",
+    "description": "Lorem Picsum — selected for your UI / UX resource collection.",
+    "url": "https://picsum.photos/",
+    "tag": "resource"
+  },
+  {
+    "id": 45,
+    "category": "UI / UX",
+    "title": "Frontend Mentor",
+    "description": "Frontend Mentor — selected for your UI / UX resource collection.",
+    "url": "https://www.frontendmentor.io/",
+    "tag": "resource"
+  },
+  {
+    "id": 46,
+    "category": "UI / UX",
+    "title": "Adobe Color Wheel",
+    "description": "Adobe Color Wheel — selected for your UI / UX resource collection.",
+    "url": "https://color.adobe.com/create/color-wheel",
+    "tag": "resource"
+  },
+  {
+    "id": 47,
+    "category": "UI / UX",
+    "title": "WhatTheFont",
+    "description": "WhatTheFont — selected for your UI / UX resource collection.",
+    "url": "https://www.myfonts.com/pages/whatthefont",
+    "tag": "resource"
+  },
+  {
+    "id": 48,
+    "category": "UI / UX",
+    "title": "OpenMoji",
+    "description": "OpenMoji — selected for your UI / UX resource collection.",
+    "url": "https://openmoji.org/",
+    "tag": "resource"
+  },
+  {
+    "id": 49,
+    "category": "CSS",
+    "title": "W3Schools CSS Reference",
+    "description": "W3Schools CSS Reference — selected for your CSS resource collection.",
+    "url": "https://www.w3schools.com/cssref/default.asp",
+    "tag": "resource"
+  },
+  {
+    "id": 50,
+    "category": "CSS",
+    "title": "MDN CSS",
+    "description": "MDN CSS — selected for your CSS resource collection.",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/CSS",
+    "tag": "resource"
+  },
+  {
+    "id": 51,
+    "category": "CSS",
+    "title": "CSS-Tricks",
+    "description": "CSS-Tricks — selected for your CSS resource collection.",
+    "url": "https://css-tricks.com/",
+    "tag": "resource"
+  },
+  {
+    "id": 52,
+    "category": "CSS",
+    "title": "CodePen Blog",
+    "description": "CodePen Blog — selected for your CSS resource collection.",
+    "url": "https://blog.codepen.io/",
+    "tag": "resource"
+  },
+  {
+    "id": 53,
+    "category": "CSS",
+    "title": "W3Schools CSS Tutorial",
+    "description": "W3Schools CSS Tutorial — selected for your CSS resource collection.",
+    "url": "https://www.w3schools.com/css/default.asp",
+    "tag": "resource"
+  },
+  {
+    "id": 54,
+    "category": "CSS",
+    "title": "Frontend Mentor Challenges",
+    "description": "Frontend Mentor Challenges — selected for your CSS resource collection.",
+    "url": "https://www.frontendmentor.io/challenges",
+    "tag": "resource"
+  },
+  {
+    "id": 55,
+    "category": "CSS",
+    "title": "Flexbox Froggy",
+    "description": "Flexbox Froggy — selected for your CSS resource collection.",
+    "url": "https://flexboxfroggy.com/",
+    "tag": "resource"
+  },
+  {
+    "id": 56,
+    "category": "CSS",
+    "title": "Grid Garden",
+    "description": "Grid Garden — selected for your CSS resource collection.",
+    "url": "https://cssgridgarden.com/",
+    "tag": "resource"
+  },
+  {
+    "id": 57,
+    "category": "CSS",
+    "title": "CSSBattle",
+    "description": "CSSBattle — selected for your CSS resource collection.",
+    "url": "https://cssbattle.dev/",
+    "tag": "resource"
+  },
+  {
+    "id": 58,
+    "category": "CSS",
+    "title": "CSS Generators",
+    "description": "CSS Generators — selected for your CSS resource collection.",
+    "url": "https://css-generators.com/",
+    "tag": "resource"
+  },
+  {
+    "id": 59,
+    "category": "CSS",
+    "title": "web.dev — Learn CSS",
+    "description": "web.dev — Learn CSS — selected for your CSS resource collection.",
+    "url": "https://web.dev/learn/css/",
+    "tag": "resource"
+  },
+  {
+    "id": 60,
+    "category": "HTML",
+    "title": "W3Schools HTML Tag Reference",
+    "description": "W3Schools HTML Tag Reference — selected for your HTML resource collection.",
+    "url": "https://www.w3schools.com/tags/default.asp",
+    "tag": "resource"
+  },
+  {
+    "id": 61,
+    "category": "HTML",
+    "title": "MDN HTML",
+    "description": "MDN HTML — selected for your HTML resource collection.",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/HTML",
+    "tag": "resource"
+  },
+  {
+    "id": 62,
+    "category": "HTML",
+    "title": "W3Schools HTML Tutorial",
+    "description": "W3Schools HTML Tutorial — selected for your HTML resource collection.",
+    "url": "https://www.w3schools.com/html/default.asp",
+    "tag": "resource"
+  },
+  {
+    "id": 63,
+    "category": "HTML",
+    "title": "Frontend Mentor Challenges",
+    "description": "Frontend Mentor Challenges — selected for your HTML resource collection.",
+    "url": "https://www.frontendmentor.io/challenges",
+    "tag": "resource"
+  }
+]

@@ -1,0 +1,14 @@
+@import "tailwindcss";
+@theme { --font-sans: "Inter", "Segoe UI", system-ui, sans-serif; }
+:root { color-scheme: dark; background: #101315; color: #eeefeb; font-family: var(--font-sans); }
+body { margin: 0; }
+button, select { cursor: pointer; }
+button:disabled { cursor: wait; }
+::selection { background: #c6f17c; color: #101315; }
+:focus-visible { outline: 2px solid #c6f17c; outline-offset: 4px; }
+.logo { display: grid; place-items: center; width: 36px; height: 36px; border-radius: 9px; background: #c6f17c; color: #101315; font-weight: 800; font-size: 16px; }
+.hero { background: radial-gradient(ellipse at 95% 10%, #c6f17c12, transparent 60%), #161a1d; }
+.hero-symbol { position: absolute; right: 4%; top: 12%; font-family: monospace; font-size: clamp(120px, 15vw, 230px); color: #c6f17c0d; transform: rotate(-12deg); user-select: none; }
+.skip-link { position: fixed; left: 12px; top: -100px; z-index: 100; background: #c6f17c; color: #101315; padding: 12px; border-radius: 6px; }
+.skip-link:focus { top: 12px; }
+@media (prefers-reduced-motion: reduce) { *, *::before, *::after { transition: none !important; animation: none !important; scroll-behavior: auto !important; } .resource-card:hover { transform: none; } }
