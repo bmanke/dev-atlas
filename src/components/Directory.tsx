@@ -1,5 +1,6 @@
 import { useEffect, useMemo, useState } from 'react';
 import resources from '../data/resources.json';
+import Contribute from "./Contribute";
 
 const categories = [...new Set(resources.map(r => r.category))];
 const marks: Record<string,string> = {Community:'◎', Git:'⑂', 'VS Code Extensions':'⌘', JavaScript:'JS', 'Validators & Checkers':'✓', Regex:'.*', 'JetBrains Plugins':'JB', 'UI / UX':'◈', CSS:'#', HTML:'</>'};
@@ -64,6 +65,7 @@ export default function Directory() {
           </article>)}
         </div>
         {!filtered.length && <div className="rounded-xl border border-dashed border-white/15 py-16 text-center"><p className="text-lg">No resources found</p><p className="mt-2 text-sm text-stone-400">Try a different search, switch category, or clear your filters.</p><button onClick={reset} className="mt-5 rounded-lg bg-[#c6f17c] px-5 py-2 text-sm font-medium text-[#101315]">Show all resources</button></div>}
+        <Contribute />
         <footer className="mt-12 flex flex-wrap justify-between gap-3 border-t border-white/10 pt-6 text-xs leading-5 text-stone-500"><p>devatlas / A little direction for your next big idea.</p><p>Independent directory · Plugin pricing and compatibility may vary.</p></footer>
       </main>
     </div>

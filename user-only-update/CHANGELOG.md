@@ -1,5 +1,20 @@
 # Changelog
 
+## [1.3.0] - 2026-10-09
+
+### Added
+
+- GitHub contribution panel above the directory footer.
+- GitHub icon linking to the project repository.
+- “Create an issue or make a pull request for changes” invitation.
+- Direct links to the issue creation and pull-request comparison pages.
+- Responsive layout and accessible labels for links opening in a new tab.
+
+### Unchanged
+
+- User-provided resource catalogue and category placements.
+- Search, filters, sorting, and saved favourites.
+
 ## [1.2.0] - 2026-10-07
 
 ### Changed
